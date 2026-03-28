@@ -4,21 +4,17 @@
 
 ---
 
-## 📸 System Architecture & Workflow Diagrams
+## Architecture Overview
 
-### Architecture Overview
+![System Architecture](architecture.png)
 
-![System Architecture](docs/architecture.png "Green-Truth Auditor System Architecture - Frontend, Backend, AI Engine")
+## System Workflow
 
----
-
-### System Workflow
-
-![System Workflow](docs/workflow.png "Green-Truth Auditor System Workflow - User Input to JSON Results")
-
-> 📝 **Note**: Images will display once added to the `docs/` folder. See [Image Setup Guide](/docs/IMAGES.md) for instructions.
+![System Workflow](workflow.png)
 
 ---
+
+## 📋 Overview
 
 Green-Truth Auditor is an intelligent AI-powered application that instantly detects greenwashing claims and evaluates the actual sustainability of products and brands. Using advanced LLM technology and comprehensive datasets, it provides evidence-based sustainability audits with visual results and detailed explanations.
 
