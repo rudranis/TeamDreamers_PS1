@@ -2,7 +2,15 @@
 
 **Hackathon-Ready AI Sustainability Auditor**
 
+## 📸 System Architecture Diagrams
+
+### Architecture Overview
+
 ![System Architecture](docs/architecture.png)
+
+### System Workflow
+
+![System Workflow](docs/workflow.png)
 
 ## 📋 Overview
 
