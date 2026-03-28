@@ -2,17 +2,23 @@
 
 **Hackathon-Ready AI Sustainability Auditor**
 
-## 📸 System Architecture Diagrams
+---
+
+## 📸 System Architecture & Workflow Diagrams
 
 ### Architecture Overview
 
-![System Architecture](docs/architecture.png)
+![System Architecture](docs/architecture.png "Green-Truth Auditor System Architecture - Frontend, Backend, AI Engine")
+
+---
 
 ### System Workflow
 
-![System Workflow](docs/workflow.png)
+![System Workflow](docs/workflow.png "Green-Truth Auditor System Workflow - User Input to JSON Results")
 
-## 📋 Overview
+> 📝 **Note**: Images will display once added to the `docs/` folder. See [Image Setup Guide](/docs/IMAGES.md) for instructions.
+
+---
 
 Green-Truth Auditor is an intelligent AI-powered application that instantly detects greenwashing claims and evaluates the actual sustainability of products and brands. Using advanced LLM technology and comprehensive datasets, it provides evidence-based sustainability audits with visual results and detailed explanations.
 
