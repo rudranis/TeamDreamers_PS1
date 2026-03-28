@@ -99,12 +99,14 @@ with col2:
                         
                         col_bd_1, col_bd_2 = st.columns([1, 1])
                         with col_bd_1:
-                            render_row("Certifications", breakdown.get("certifications", 0))
-                            render_row("Measurable Data", breakdown.get("measurable_data", 0))
-                            render_row("Transparency", breakdown.get("transparency", 0))
+                            render_row("Certifications", breakdown.get("certs", 0))
+                            render_row("Measurable Data", breakdown.get("numbers", 0))
+                            render_row("Supply Chain", breakdown.get("supply", 0))
+                            render_row("Audits/Third-Party", breakdown.get("third", 0))
                         with col_bd_2:
-                            render_row("Vague Claims", breakdown.get("vague_claims", 0))
-                            render_row("Lack of Evidence", breakdown.get("lack_of_evidence", 0))
+                            render_row("Vague Claims", breakdown.get("vague", 0))
+                            render_row("Lack of Evidence", breakdown.get("no_evidence", 0))
+                            render_row("Lifecycle Data", breakdown.get("lifecycle", 0))
                             
                         st.markdown("---")
                         
@@ -118,9 +120,13 @@ with col2:
                         else:
                             st.success("🧾 **Recommendation:** Good job providing evidence. Continue to maintain transparency.")
                         
-                        st.subheader("Detected Buzzwords")
+                        st.subheader("Detected Signals")
                         if buzzwords:
-                            st.write(", ".join([f"`{bw}`" for bw in buzzwords]))
+                            st.markdown("**Buzzwords:** " + ", ".join([f"`{bw}`" for bw in buzzwords]))
+                        
+                        strong_signals = result.get("strong_signals", [])
+                        if strong_signals:
+                            st.markdown("**Verified Signals:** " + ", ".join([f"`{ss.split(':')[0]}`" for ss in strong_signals]))
                             
                             st.markdown("### Parsed Text (Highlighted)")
                             highlighted_text = target_text

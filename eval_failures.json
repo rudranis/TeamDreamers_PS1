@@ -1,0 +1,302 @@
+[
+  {
+    "id": 0,
+    "text": "ACCELERATING",
+    "predicted": "Marketing Fluff",
+    "true_label": ""
+  },
+  {
+    "id": 1,
+    "text": "MEANINGFUL",
+    "predicted": "Marketing Fluff",
+    "true_label": ""
+  },
+  {
+    "id": 2,
+    "text": "CHANGE",
+    "predicted": "Marketing Fluff",
+    "true_label": ""
+  },
+  {
+    "id": 3,
+    "text": "2018 Sustainability Report",
+    "predicted": "Marketing Fluff",
+    "true_label": ""
+  },
+  {
+    "id": 4,
+    "text": "ECOLAB SUSTAINABILITY REPORT 2018 1",
+    "predicted": "Marketing Fluff",
+    "true_label": ""
+  },
+  {
+    "id": 5,
+    "text": "The world is at a crossroads. We see a ",
+    "predicted": "Marketing Fluff",
+    "true_label": ""
+  },
+  {
+    "id": 6,
+    "text": "growing global sense of urgency about ",
+    "predicted": "Marketing Fluff",
+    "true_label": ""
+  },
+  {
+    "id": 7,
+    "text": "challenges such as climate change, water ",
+    "predicted": "Marketing Fluff",
+    "true_label": ""
+  },
+  {
+    "id": 8,
+    "text": "scarcity, food security and public health. ",
+    "predicted": "Marketing Fluff",
+    "true_label": ""
+  },
+  {
+    "id": 9,
+    "text": "But we also have unprecedented means ",
+    "predicted": "Marketing Fluff",
+    "true_label": ""
+  },
+  {
+    "id": 10,
+    "text": "at our disposal to meet these challenges. ",
+    "predicted": "Marketing Fluff",
+    "true_label": ""
+  },
+  {
+    "id": 11,
+    "text": "Digital technology is delivering insights ",
+    "predicted": "Marketing Fluff",
+    "true_label": ""
+  },
+  {
+    "id": 12,
+    "text": "that were previously unavailable and driving ",
+    "predicted": "Marketing Fluff",
+    "true_label": ""
+  },
+  {
+    "id": 13,
+    "text": "demand for smart, sustainable solutions. ",
+    "predicted": "Marketing Fluff",
+    "true_label": ""
+  },
+  {
+    "id": 14,
+    "text": "As the will to do better grows, so does ",
+    "predicted": "Marketing Fluff",
+    "true_label": ""
+  },
+  {
+    "id": 15,
+    "text": "Ecolab\u2019s ability to accelerate positive change ",
+    "predicted": "Marketing Fluff",
+    "true_label": ""
+  },
+  {
+    "id": 16,
+    "text": "for our customers. We help companies in a ",
+    "predicted": "Marketing Fluff",
+    "true_label": ""
+  },
+  {
+    "id": 17,
+    "text": "wide range of industries deliver clean water, ",
+    "predicted": "Marketing Fluff",
+    "true_label": ""
+  },
+  {
+    "id": 18,
+    "text": "safe food, abundant energy and healthy ",
+    "predicted": "Marketing Fluff",
+    "true_label": ""
+  },
+  {
+    "id": 19,
+    "text": "environments, sustainably.",
+    "predicted": "Marketing Fluff",
+    "true_label": ""
+  },
+  {
+    "id": 20,
+    "text": "Now is the time to make a difference. ",
+    "predicted": "Marketing Fluff",
+    "true_label": ""
+  },
+  {
+    "id": 21,
+    "text": "Together, we drive the progress the ",
+    "predicted": "Marketing Fluff",
+    "true_label": ""
+  },
+  {
+    "id": 22,
+    "text": "world needs.",
+    "predicted": "Marketing Fluff",
+    "true_label": ""
+  },
+  {
+    "id": 23,
+    "text": "ACCELERATING MEANINGFUL CHANGE CONTENTS",
+    "predicted": "Marketing Fluff",
+    "true_label": ""
+  },
+  {
+    "id": 24,
+    "text": "VALUE. DELIVERED.",
+    "predicted": "Marketing Fluff",
+    "true_label": ""
+  },
+  {
+    "id": 25,
+    "text": "Value creation is the primary aim of any business. ",
+    "predicted": "Marketing Fluff",
+    "true_label": ""
+  },
+  {
+    "id": 26,
+    "text": "At Ecolab, we deliver results, whether it\u2019s operational ",
+    "predicted": "Marketing Fluff",
+    "true_label": ""
+  },
+  {
+    "id": 27,
+    "text": "efficiency, quality, safety, or sustainability benefits such ",
+    "predicted": "Marketing Fluff",
+    "true_label": ""
+  },
+  {
+    "id": 28,
+    "text": "as reduced water and energy usage or greenhouse gas ",
+    "predicted": "Marketing Fluff",
+    "true_label": ""
+  },
+  {
+    "id": 29,
+    "text": "emissions. eROI is how we prove it.",
+    "predicted": "Marketing Fluff",
+    "true_label": ""
+  },
+  {
+    "id": 30,
+    "text": "eROI means exponential return on investment. It allows ",
+    "predicted": "Marketing Fluff",
+    "true_label": ""
+  },
+  {
+    "id": 31,
+    "text": "our customers to track their progress and demonstrate ",
+    "predicted": "Marketing Fluff",
+    "true_label": ""
+  },
+  {
+    "id": 32,
+    "text": "value beyond the bottom line\u2014from increasing productivity ",
+    "predicted": "Marketing Fluff",
+    "true_label": ""
+  },
+  {
+    "id": 33,
+    "text": "and performance to reducing operational costs and driving ",
+    "predicted": "Marketing Fluff",
+    "true_label": ""
+  },
+  {
+    "id": 34,
+    "text": "efficiency while achieving sustainability goals and making ",
+    "predicted": "Marketing Fluff",
+    "true_label": ""
+  },
+  {
+    "id": 35,
+    "text": "a positive impact in the world.",
+    "predicted": "Marketing Fluff",
+    "true_label": ""
+  },
+  {
+    "id": 36,
+    "text": "The real-life case studies in this report showcase how ",
+    "predicted": "Marketing Fluff",
+    "true_label": ""
+  },
+  {
+    "id": 37,
+    "text": "Ecolab delivers these outcomes through technology, ",
+    "predicted": "Marketing Fluff",
+    "true_label": ""
+  },
+  {
+    "id": 38,
+    "text": "insights, service and training. With value delivered today, ",
+    "predicted": "Marketing Fluff",
+    "true_label": ""
+  },
+  {
+    "id": 39,
+    "text": "we can push for an even better tomorrow. ",
+    "predicted": "Marketing Fluff",
+    "true_label": ""
+  },
+  {
+    "id": 40,
+    "text": "Ecolab is committed to partnerships and programs that ",
+    "predicted": "Marketing Fluff",
+    "true_label": ""
+  },
+  {
+    "id": 41,
+    "text": "fulfill the United Nations Sustainable Development Goals\u2014in ",
+    "predicted": "Marketing Fluff",
+    "true_label": ""
+  },
+  {
+    "id": 42,
+    "text": "particular, Goal 6, to ensure the availability and sustainable ",
+    "predicted": "Marketing Fluff",
+    "true_label": ""
+  },
+  {
+    "id": 43,
+    "text": "management of water and sanitation for all. (See page 22 ",
+    "predicted": "Marketing Fluff",
+    "true_label": ""
+  },
+  {
+    "id": 44,
+    "text": "for more on this effort.)",
+    "predicted": "Marketing Fluff",
+    "true_label": ""
+  },
+  {
+    "id": 45,
+    "text": "ECOLAB SUSTAINABILITY REPORT 2018 1",
+    "predicted": "Marketing Fluff",
+    "true_label": ""
+  },
+  {
+    "id": 46,
+    "text": "At right: Serene Taylor, Marketing Communications ",
+    "predicted": "Marketing Fluff",
+    "true_label": ""
+  },
+  {
+    "id": 47,
+    "text": "specialist, Global Paper, Nalco Water",
+    "predicted": "Marketing Fluff",
+    "true_label": ""
+  },
+  {
+    "id": 48,
+    "text": "CEO Letter 2",
+    "predicted": "Marketing Fluff",
+    "true_label": ""
+  },
+  {
+    "id": 49,
+    "text": "Ecolab at a Glance 3",
+    "predicted": "Marketing Fluff",
+    "true_label": ""
+  }
+]
